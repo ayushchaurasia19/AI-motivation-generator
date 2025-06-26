@@ -19,7 +19,7 @@ This app generates uplifting and personalized motivational quotes based on how y
 
 ## 📸 Preview
 
-![App Screenshot](Images/preview.png) *(Optional - add a screenshot to your repo)*
+![App Screenshot](Images/preview.png) 
 
 ---
 
