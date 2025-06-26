@@ -10,10 +10,9 @@ Welcome to the **AI Motivation Generator** — a mood-based motivational quote g
 
 This app generates uplifting and personalized motivational quotes based on how you're feeling. Whether you're tired, stressed, anxious, or just need focus — this app has your back.
 
-- 🎭 Choose your mood
-- 🧠 GPT-2 generates a custom quote just for you
-- 📚 If the AI fails, fallback curated quotes are used
-- 🎨 Beautiful UI with calming design
+-  Choose your mood
+-  GPT-2 generates a custom quote just for you
+-  If the AI fails, fallback curated quotes are used
 
 ---
 
@@ -34,10 +33,10 @@ This app generates uplifting and personalized motivational quotes based on how y
 
 ## 🛠️ Tech Stack
 
-- Python 🐍
-- Streamlit 🌐
-- Hugging Face Transformers 🤗
-- PyTorch 🔥
+- Python 
+- Streamlit 
+- Hugging Face Transformers 
+- PyTorch 
 
 ---
 
