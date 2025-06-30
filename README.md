@@ -43,7 +43,7 @@ This app generates uplifting and personalized motivational quotes based on how y
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/your-username/AI-Motivation-Generator.git
+git clone https://github.com/ayushchaurasia19/AI-Motivation-Generator.git
 cd AI-Motivation-Generator
 pip install -r requirements.txt
 streamlit run app.py
